@@ -1,9 +1,9 @@
 // Firebase Configuration
 // Replace FIREBASE_API_KEY with your actual Firebase API key
 export const FIREBASE_CONFIG = {
-    API_KEY: 'AIzaSyAdPSm58ZSTwx02E-PgzWr36D9lwb0FZ04', // Replace with your Firebase API key
-    AUTH_DOMAIN: 'taskmanager-f6bb4.firebaseapp.com', // Replace with your project domain
-    PROJECT_ID: 'taskmanager-f6bb4', // Replace with your project ID
+    API_KEY: '', // Replace with your Firebase API key
+    AUTH_DOMAIN: '', // Replace with your project domain
+    PROJECT_ID: '', // Replace with your project ID
 };
 
 // Firebase Auth REST API endpoints
